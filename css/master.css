@@ -1,7 +1,9 @@
 .espacio{
     padding-top: 1%;
 }
-.img-thumbnail{
-    width: 25%;
-    height: 25%;
+
+.imagencitas{
+    width: 300px;
+    height: 300px;
 }
+
